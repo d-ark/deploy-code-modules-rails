@@ -5,10 +5,10 @@ require 'deploy/code/modules/rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "deploy-code-modules-rails"
-  spec.version       = Deploy::Code::Modules::rails::VERSION
+  spec.version       = Deploy::Code::Modules::Rails::VERSION
   spec.authors       = ["Anton Priadko"]
   spec.email         = ["antonpriadko+gems@gmail.com"]
-  spec.summary       = %q{rails module for deploy-code.}
+  spec.summary       = %q{Rails module for deploy-code.}
   spec.description   = %q{}
   spec.homepage      = "https://github.com/d-ark/deploy-code-modules-rails"
   spec.license       = "MIT"
